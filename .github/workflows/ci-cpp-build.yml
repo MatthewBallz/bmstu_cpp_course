@@ -94,3 +94,4 @@ jobs:
           path: html-reports/
           if-no-files-found: warn
           retention-days: 5
+          sosal?
